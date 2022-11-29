@@ -1,0 +1,15 @@
+C:\Mon_Code\Factoriel\bin\Debug\net7.0\Factoriel.exe
+C:\Mon_Code\Factoriel\bin\Debug\net7.0\Factoriel.deps.json
+C:\Mon_Code\Factoriel\bin\Debug\net7.0\Factoriel.runtimeconfig.json
+C:\Mon_Code\Factoriel\bin\Debug\net7.0\Factoriel.dll
+C:\Mon_Code\Factoriel\bin\Debug\net7.0\Factoriel.pdb
+C:\Mon_Code\Factoriel\obj\Debug\net7.0\Factoriel.csproj.AssemblyReference.cache
+C:\Mon_Code\Factoriel\obj\Debug\net7.0\Factoriel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Factoriel\obj\Debug\net7.0\Factoriel.AssemblyInfoInputs.cache
+C:\Mon_Code\Factoriel\obj\Debug\net7.0\Factoriel.AssemblyInfo.cs
+C:\Mon_Code\Factoriel\obj\Debug\net7.0\Factoriel.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Factoriel\obj\Debug\net7.0\Factoriel.dll
+C:\Mon_Code\Factoriel\obj\Debug\net7.0\refint\Factoriel.dll
+C:\Mon_Code\Factoriel\obj\Debug\net7.0\Factoriel.pdb
+C:\Mon_Code\Factoriel\obj\Debug\net7.0\Factoriel.genruntimeconfig.cache
+C:\Mon_Code\Factoriel\obj\Debug\net7.0\ref\Factoriel.dll

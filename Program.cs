@@ -4,12 +4,18 @@ namespace Program{
     class FactorialTask{
         public static void Main(string [] args){
             Console.Clear();
-            static int FactorialTask(int number){
+            static long Factorial(int number){
                 
-                return  ;
+                  return  number ==0 || number==1 ? 1 : number * Factorial(number-1);
+                 
             }
-        Console.WriteLine (Factorial(456));// → 120
-        Console.WriteLine (Factorial(1));// → 6
+        //Console.WriteLine (Factorial(4));// → 24
+        //Console.WriteLine (Factorial(7));// → 5040
+        Console.WriteLine(Factorial(5));  // 120
+            Console.WriteLine(Factorial(9));  // 1
+            Console.WriteLine(Factorial(14)); // 87178291200
+            Console.WriteLine(Factorial(0));  // 1
+            Console.WriteLine(Factorial(20)); // 2432902008176640000
         }
     }
 }
